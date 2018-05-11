@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "MBR"
+		},
+		{
+			"path": "Multiboot-ASM"
+		},
+		{
+			"path": "Multiboot-C"
+		}
+	],
+	"settings": {}
+}
